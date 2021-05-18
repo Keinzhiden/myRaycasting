@@ -1,0 +1,2 @@
+C:\Users\rouyr\source\repos\RayCasting\x64\Debug\RayCasting.exe
+C:\Users\rouyr\source\repos\RayCasting\x64\Debug\RayCasting.pdb
